@@ -6,12 +6,13 @@ using System.Threading.Tasks;
 
 namespace RobotsVsDinosaurs
 {
-    class Program
+    class Weapon
     {
-        static void Main(string[] args)
-        {
+        //Member Variables (what this class has)
 
+        //Constructors (Spawners)
 
-        }
+        //Member Methods (what this class does)
+
     }
 }

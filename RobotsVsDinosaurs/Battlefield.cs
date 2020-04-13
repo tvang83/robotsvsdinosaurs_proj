@@ -53,6 +53,23 @@ namespace RobotsVsDinosaurs
             }
         }
 
+        public void dinoBattleFinish() //battle conclude
+        {
+            if (dinoHealth == 0)
+            {
+                Console.WriteLine("Finish!");
+                Console.ReadLine();
+            }
+        }
+        public void roboBattleFinish() //battle conclude
+        {
+            if (roboHealth == 0)
+            {
+                Console.WriteLine("Finish!");
+                Console.ReadLine();
+            }
+        }
 
     }
+}
 }

@@ -24,7 +24,7 @@ namespace RobotsVsDinosaurs
             this.name = robotType;
             health = 100;
             powerLevel = 100;
-            weapon = "jinguBang";
+            weapon = "Spear";
             attackPower = 20;
 
         }
